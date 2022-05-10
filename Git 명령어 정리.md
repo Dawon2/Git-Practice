@@ -131,7 +131,7 @@
 ## 5. 파일 보관 명령어 (stash)
 
 **# git stash**
-> 작업트리(add 전)의 수정내용을 stash에 따로 보관하기
+> 작업트리의 수정내용(add후 인덱스 내용)을 stash에 따로 보관하기
 
 > = git stash save
 
